@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C45 Old Footprint=CAP100 New Footprint=0805
+Change Component Footprint: Designator=R46 Old Footprint=RES400 New Footprint=0805
+Change Component Footprint: Designator=R49 Old Footprint=RES400 New Footprint=0805
+Change Component Footprint: Designator=R72 Old Footprint=RES400 New Footprint=0805
+Change Component Footprint: Designator=R80 Old Footprint=RES400 New Footprint=0805
+Change Component Footprint: Designator=R_VDDA3 Old Footprint=RES400 New Footprint=0805

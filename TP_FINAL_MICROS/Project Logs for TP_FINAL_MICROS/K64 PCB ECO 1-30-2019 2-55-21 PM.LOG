@@ -1,0 +1,366 @@
+Added Component: Designator=C30(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C31(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C45(CAP100)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES3(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES4(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES5(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_DES6(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C_VDDA(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAP_EXTAL32(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAP_VBAT(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAP_VOUT33(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAP_VREGIN(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAP_XTAL32(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D_VDDA(DO41)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HDR(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ILI9341(SIP9)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J21(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(SIP5*2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J_VBAT(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L4(INDUCTOR_FM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L5(INDUCTOR_FM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R46(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R49(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R72(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R80(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_EXTAL32(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_TAL32(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_VDDA1(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_VDDA2(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_VDDA3(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_XTAL32(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_XTAL_K64_MAIN(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RPTC10(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RPTC11(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TAL_32(CRISTAL PERFIL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_VOUT33(TPTH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=EXTAL32_RTC Pin=R_EXTAL32-1
+Added Net: Name=EXTAL32_RTC
+Added Pin To Net: NetName=EXTAL_32.768KHz Pin=CAP_EXTAL32-1
+Added Pin To Net: NetName=EXTAL_32.768KHz Pin=R_EXTAL32-2
+Added Pin To Net: NetName=EXTAL_32.768KHz Pin=R_TAL32-2
+Added Pin To Net: NetName=EXTAL_32.768KHz Pin=TAL_32-2
+Added Net: Name=EXTAL_32.768KHz
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES1-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES2-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES3-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES4-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES5-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_DES6-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=C_VDDA-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=ILI9341-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=ILI9341-8
+Added Pin To Net: NetName=ILI9341_3V3 Pin=J?-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=J_VBAT-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=R_VDDA1-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=R_VDDA2-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=RPTC10-1
+Added Pin To Net: NetName=ILI9341_3V3 Pin=RPTC11-1
+Added Net: Name=ILI9341_3V3
+Added Pin To Net: NetName=ILI9341_GND Pin=C30-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C31-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C45-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES1-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES2-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES3-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES4-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES5-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_DES6-2
+Added Pin To Net: NetName=ILI9341_GND Pin=C_VDDA-2
+Added Pin To Net: NetName=ILI9341_GND Pin=CAP_EXTAL32-2
+Added Pin To Net: NetName=ILI9341_GND Pin=CAP_VBAT-2
+Added Pin To Net: NetName=ILI9341_GND Pin=CAP_VOUT33-2
+Added Pin To Net: NetName=ILI9341_GND Pin=CAP_VREGIN-2
+Added Pin To Net: NetName=ILI9341_GND Pin=CAP_XTAL32-2
+Added Pin To Net: NetName=ILI9341_GND Pin=D_VDDA-1
+Added Pin To Net: NetName=ILI9341_GND Pin=ILI9341-2
+Added Pin To Net: NetName=ILI9341_GND Pin=J?-3
+Added Pin To Net: NetName=ILI9341_GND Pin=J?-5
+Added Pin To Net: NetName=ILI9341_GND Pin=L4-2
+Added Pin To Net: NetName=ILI9341_GND Pin=R72-1
+Added Pin To Net: NetName=ILI9341_GND Pin=R_XTAL_K64_MAIN-1
+Added Net: Name=ILI9341_GND
+Added Pin To Net: NetName=ILI9341_MISO Pin=ILI9341-9
+Added Net: Name=ILI9341_MISO
+Added Pin To Net: NetName=K64_MICRO_USB_DNpg Pin=R49-1
+Added Net: Name=K64_MICRO_USB_DNpg
+Added Pin To Net: NetName=K64_MICRO_USB_DPpg Pin=R46-1
+Added Net: Name=K64_MICRO_USB_DPpg
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=J?-4
+Added Net: Name=NetJ11_2
+Added Net: Name=NetMCU_14
+Added Net: Name=NetMCU_15
+Added Net: Name=NetMCU_16
+Added Net: Name=NetMCU_17
+Added Net: Name=NetMCU_18
+Added Net: Name=NetMCU_19
+Added Net: Name=NetMCU_20
+Added Net: Name=NetMCU_21
+Added Net: Name=NetMCU_26
+Added Net: Name=NetMCU_27
+Added Pin To Net: NetName=NetR_VDDA3_2 Pin=R_VDDA3-2
+Added Net: Name=NetR_VDDA3_2
+Added Pin To Net: NetName=P3V3 Pin=C30-1
+Added Pin To Net: NetName=P3V3 Pin=C31-1
+Added Net: Name=P3V3
+Added Pin To Net: NetName=P5V0_USB_CONN_VBUS Pin=L5-1
+Added Net: Name=P5V0_USB_CONN_VBUS
+Added Pin To Net: NetName=P5V_K64_USB Pin=C45-1
+Added Pin To Net: NetName=P5V_K64_USB Pin=HDR-2
+Added Pin To Net: NetName=P5V_K64_USB Pin=J21-2
+Added Pin To Net: NetName=P5V_K64_USB Pin=L5-2
+Added Net: Name=P5V_K64_USB
+Added Pin To Net: NetName=P5V_USB Pin=J21-1
+Added Net: Name=P5V_USB
+Added Pin To Net: NetName=PTA0 Pin=J11-1
+Added Net: Name=PTA0
+Added Net: Name=PTA1
+Added Pin To Net: NetName=PTA2 Pin=R80-2
+Added Net: Name=PTA2
+Added Pin To Net: NetName=PTA3 Pin=J?-2
+Added Net: Name=PTA3
+Added Net: Name=PTA4
+Added Net: Name=PTA5
+Added Net: Name=PTA12
+Added Net: Name=PTA13
+Added Net: Name=PTA14
+Added Net: Name=PTA15
+Added Net: Name=PTA16
+Added Net: Name=PTA17
+Added Net: Name=PTA18
+Added Pin To Net: NetName=PTA19 Pin=R_XTAL_K64_MAIN-2
+Added Net: Name=PTA19
+Added Net: Name=PTB0
+Added Net: Name=PTB1
+Added Net: Name=PTB2
+Added Net: Name=PTB3
+Added Net: Name=PTB16
+Added Net: Name=PTB17
+Added Net: Name=PTB18
+Added Net: Name=PTB19
+Added Net: Name=PTB20
+Added Net: Name=PTB21
+Added Net: Name=PTB22
+Added Net: Name=PTB23
+Added Net: Name=PTC0
+Added Net: Name=PTC1
+Added Net: Name=PTC2
+Added Net: Name=PTC3
+Added Net: Name=PTC4
+Added Net: Name=PTC5
+Added Net: Name=PTC6
+Added Net: Name=PTC7
+Added Net: Name=PTC8
+Added Net: Name=PTC9
+Added Pin To Net: NetName=PTC10 Pin=RPTC10-2
+Added Net: Name=PTC10
+Added Pin To Net: NetName=PTC11 Pin=RPTC11-2
+Added Net: Name=PTC11
+Added Net: Name=PTC12
+Added Net: Name=PTC13
+Added Net: Name=PTC14
+Added Net: Name=PTC15
+Added Net: Name=PTC16
+Added Net: Name=PTC17
+Added Net: Name=PTC18
+Added Net: Name=PTD0
+Added Pin To Net: NetName=PTD1 Pin=ILI9341-7
+Added Net: Name=PTD1
+Added Pin To Net: NetName=PTD2 Pin=ILI9341-6
+Added Net: Name=PTD2
+Added Pin To Net: NetName=PTD3 Pin=ILI9341-3
+Added Net: Name=PTD3
+Added Pin To Net: NetName=PTD4 Pin=ILI9341-4
+Added Net: Name=PTD4
+Added Pin To Net: NetName=PTD5 Pin=ILI9341-5
+Added Net: Name=PTD5
+Added Net: Name=PTD6
+Added Net: Name=PTD7
+Added Net: Name=PTE3
+Added Net: Name=PTE4
+Added Net: Name=PTE5
+Added Net: Name=PTE6
+Added Net: Name=PTE9
+Added Net: Name=PTE10
+Added Net: Name=PTE11
+Added Net: Name=PTE24
+Added Net: Name=PTE25
+Added Net: Name=PTE26
+Added Pin To Net: NetName=RST_TGTMCU_B Pin=J?-10
+Added Net: Name=RST_TGTMCU_B
+Added Pin To Net: NetName=TRACE_SWO Pin=J?-6
+Added Pin To Net: NetName=TRACE_SWO Pin=R80-1
+Added Net: Name=TRACE_SWO
+Added Pin To Net: NetName=USB_CONN_DN Pin=R49-2
+Added Net: Name=USB_CONN_DN
+Added Pin To Net: NetName=USB_CONN_DP Pin=R46-2
+Added Net: Name=USB_CONN_DP
+Added Pin To Net: NetName=USB_ID_TP Pin=R72-2
+Added Net: Name=USB_ID_TP
+Added Pin To Net: NetName=VBAT Pin=CAP_VBAT-1
+Added Pin To Net: NetName=VBAT Pin=J_VBAT-2
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VOUT33_K64 Pin=CAP_VOUT33-1
+Added Pin To Net: NetName=VOUT33_K64 Pin=TP_VOUT33-1
+Added Net: Name=VOUT33_K64
+Added Pin To Net: NetName=VREFH Pin=D_VDDA-2
+Added Pin To Net: NetName=VREFH Pin=R_VDDA1-2
+Added Pin To Net: NetName=VREFH Pin=R_VDDA2-2
+Added Pin To Net: NetName=VREFH Pin=R_VDDA3-1
+Added Net: Name=VREFH
+Added Pin To Net: NetName=VREGIN_K64 Pin=CAP_VREGIN-1
+Added Pin To Net: NetName=VREGIN_K64 Pin=HDR-1
+Added Net: Name=VREGIN_K64
+Added Pin To Net: NetName=XTAL32_RTC Pin=R_XTAL32-1
+Added Net: Name=XTAL32_RTC
+Added Pin To Net: NetName=XTAL_32.768KHz Pin=CAP_XTAL32-1
+Added Pin To Net: NetName=XTAL_32.768KHz Pin=R_TAL32-1
+Added Pin To Net: NetName=XTAL_32.768KHz Pin=R_XTAL32-2
+Added Pin To Net: NetName=XTAL_32.768KHz Pin=TAL_32-1
+Added Net: Name=XTAL_32.768KHz
+Added Member To Class: ClassName=K64 Member=Component C30 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C31 10uF
+Added Member To Class: ClassName=K64 Member=Component C45 1.0UF
+Added Member To Class: ClassName=K64 Member=Component C_DES1 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_DES2 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_DES3 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_DES4 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_DES5 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_DES6 0.1uF
+Added Member To Class: ClassName=K64 Member=Component C_VDDA 0.1uF
+Added Member To Class: ClassName=K64 Member=Component CAP_EXTAL32 12pF
+Added Member To Class: ClassName=K64 Member=Component CAP_VBAT 0.1uF
+Added Member To Class: ClassName=K64 Member=Component CAP_VOUT33 2.2uF
+Added Member To Class: ClassName=K64 Member=Component CAP_VREGIN 10uF
+Added Member To Class: ClassName=K64 Member=Component CAP_XTAL32 12pF
+Added Member To Class: ClassName=K64 Member=Component D_VDDA 3V
+Added Member To Class: ClassName=K64 Member=Component HDR JUMPER
+Added Member To Class: ClassName=K64 Member=Component ILI9341 CON9
+Added Member To Class: ClassName=K64 Member=Component J11 DNP
+Added Member To Class: ClassName=K64 Member=Component J21 HDR 1X2
+Added Member To Class: ClassName=K64 Member=Component J? CON5*2
+Added Member To Class: ClassName=K64 Member=Component J_VBAT JUMPER
+Added Member To Class: ClassName=K64 Member=Component L4 330 OHM
+Added Member To Class: ClassName=K64 Member=Component L5 300 OHM
+Added Member To Class: ClassName=K64 Member=Component R46 33
+Added Member To Class: ClassName=K64 Member=Component R49 33
+Added Member To Class: ClassName=K64 Member=Component R72 0
+Added Member To Class: ClassName=K64 Member=Component R80 0
+Added Member To Class: ClassName=K64 Member=Component R_EXTAL32 0
+Added Member To Class: ClassName=K64 Member=Component R_TAL32 1M
+Added Member To Class: ClassName=K64 Member=Component R_VDDA1 0
+Added Member To Class: ClassName=K64 Member=Component R_VDDA2 1k
+Added Member To Class: ClassName=K64 Member=Component R_VDDA3 0
+Added Member To Class: ClassName=K64 Member=Component R_XTAL32 0
+Added Member To Class: ClassName=K64 Member=Component R_XTAL_K64_MAIN 0
+Added Member To Class: ClassName=K64 Member=Component RPTC10 10k
+Added Member To Class: ClassName=K64 Member=Component RPTC11 10k
+Added Member To Class: ClassName=K64 Member=Component TAL_32 32.768KHZ
+Added Member To Class: ClassName=K64 Member=Component TP_VOUT33 TP
+Added Member To Class: ClassName=PTA[0..17] Member=Element[0]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[1]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[2]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[3]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[4]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[5]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[12]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[13]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[14]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[15]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[16]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[17]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[18]: PTA
+Added Member To Class: ClassName=PTA[0..17] Member=Element[19]: PTA
+Added Member To Class: ClassName=PTB[0..23] Member=Element[0]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[1]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[2]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[3]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[16]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[17]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[18]: I2S0_TX_BCLK
+Added Member To Class: ClassName=PTB[0..23] Member=Element[19]: I2S0_TX_FS
+Added Member To Class: ClassName=PTB[0..23] Member=Element[20]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[21]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[22]: PTB
+Added Member To Class: ClassName=PTB[0..23] Member=Element[23]: PTB
+Added Member To Class: ClassName=PTC[0..18] Member=Element[0]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[1]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[2]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[3]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[4]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[5]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[6]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[7]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[8]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[9]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[10]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[11]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[12]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[13]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[14]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[15]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[16]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[17]: PTC
+Added Member To Class: ClassName=PTC[0..18] Member=Element[18]: PTC
+Added Member To Class: ClassName=PTD[0..7] Member=Element[0]: PTD
+Added Member To Class: ClassName=PTD[0..7] Member=Element[1]: ILI9341_SCK
+Added Member To Class: ClassName=PTD[0..7] Member=Element[2]: ILI9341_MOSI
+Added Member To Class: ClassName=PTD[0..7] Member=Element[3]: ILI9341_CS
+Added Member To Class: ClassName=PTD[0..7] Member=Element[4]: ILI9341_RST
+Added Member To Class: ClassName=PTD[0..7] Member=Element[5]: ILI9341_DS/RS
+Added Member To Class: ClassName=PTD[0..7] Member=Element[6]: PTD
+Added Member To Class: ClassName=PTD[0..7] Member=Element[7]: PTD
+Added Member To Class: ClassName=PTE[0..6] Member=Element[3]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[4]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[5]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[6]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[9]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[10]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[11]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[24]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[25]: PTE
+Added Member To Class: ClassName=PTE[0..6] Member=Element[26]: PTE
+Added Room: Name=K64
