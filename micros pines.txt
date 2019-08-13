@@ -1,0 +1,22 @@
+/*Fijos*/
+PTA0,PTA3,PTA2 PROGRAMADOR
+PTA8,PTA9 Enconder FTM
+PTB18,PTB19 Enconder FTM
+PTB22 SPI pantalla leds
+PTD0,PTD1,PTD2 SPI para LCD
+PTE0-6 SD
+/*Podrían variar*/
+PTA13 LLWU boton
+PTA6 VccInUserInput
+PTA 11-12 SDA SCL para el output
+PTA 10 ctrl  output
+PTB4-6,PTB20 botones input
+PTC5-11 i2s
+PTC12-15 Debug PINS
+PTC18-19 ILI y led ctrl
+PTD4-6 cosas de ili
+PTD7-15 Bluetooth
+
+Preguntar dani conectores i2s
+En screeens falta ver el conector de la pantalla si le ponemos el otro header de 5
+Checkear footprint sd
