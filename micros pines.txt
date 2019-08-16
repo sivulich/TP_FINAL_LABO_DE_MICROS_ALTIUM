@@ -1,22 +1,23 @@
 /*Fijos*/
 PTA0,PTA3,PTA2 PROGRAMADOR
-PTA8,PTA9 Enconder FTM
-PTB18,PTB19 Enconder FTM
-PTB22 SPI pantalla leds
+PTA8,PTA9 Enconder FTM (CONFIGURAR EL PULLUP RESISTOR!)
+PTB18,PTB19 Enconder FTM (CONFIGURAR EL PULLUP RESISTOR!)
+PTB22 SPI pantalla leds (CONFIGURAR OPEN DRAIN!)
 PTD0,PTD1,PTD2 SPI para LCD
 PTE0-6 SD
 /*Podrían variar*/
-PTA13 LLWU boton
-PTA6 VccInUserInput
+PTA13 LLWU boton (CONFIGURAR EL PULLUP RESISTOR!)
 PTA 11-12 SDA SCL para el output
 PTA 10 ctrl  output
-PTB4-6,PTB20 botones input
+PTB4-6,PTB20 botones input (CONFIGURAR EL PULLUP RESISTOR!)
 PTC5-11 i2s
 PTC12-15 Debug PINS
-PTC18-19 ILI y led ctrl
+PTC18-19 ILI y led ctrl (CONFIGURAR OPEN DRAIN PARA LED CTRL!)
 PTD4-6 cosas de ili
 PTD7-15 Bluetooth
 
-Preguntar dani conectores i2s
-En screeens falta ver el conector de la pantalla si le ponemos el otro header de 5
+Configurar pullup resistor: pag 290 del reference manual-> se le puede poner a cualquier puerto. 20 a 50kO pueden valer (datasheet)
+
+Del encoder, lo más rápido que lo pude hacer girar fue un flanco de 120us -> 100 us para tener un margen. Va a andar dice diego.
+
 Checkear footprint sd
